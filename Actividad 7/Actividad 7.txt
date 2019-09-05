@@ -1,0 +1,38 @@
+Problema 1:
+r = Guardar segundo valor.
+Vacia = false
+if(empty(s)){
+ vacia= true
+la pila esta vacia
+}
+else{
+i=pop(s)}
+if(empty(s)){
+ vacia= true
+la pila esta vacia
+}
+else{
+a=pop(s)
+El segundo valor es: r  }
+
+
+Problema 2:
+vacia=false
+i= guarda primer elemento de la pila
+extra = guardar valor 2 de la pila
+if(empty(s)){
+ vacia= true
+la pila esta vacia   }
+else{
+i=pop(s)
+}
+
+
+if(empty(s)){
+ vacia= true
+la pila esta vacia
+}
+else{
+extra=peek(s)
+push(i,s)
+El segundo elemento es extra.
